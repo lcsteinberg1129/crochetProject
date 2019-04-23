@@ -101,7 +101,7 @@ p{
   top: 150px;
   transition: all 1s;
   transition-delay: 1s;
-  height: 630px;
+  height: 600px;
   overflow:scroll;
 }
 .panel1{
@@ -130,7 +130,7 @@ footer{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
-  height: 750px;
+  height: 700px;
   position: relative;
 }
 .grannySquare{
