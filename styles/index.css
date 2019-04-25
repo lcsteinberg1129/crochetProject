@@ -20,7 +20,7 @@ body {
 header{
   height: 200px;
   background-color: beige;
-  background-image: url(https://res.cloudinary.com/dutwcs5c9/image/upload/v1556215633/History-of-crochet.png);
+  background-image: url("https://res.cloudinary.com/dutwcs5c9/image/upload/v1556215633/History-of-crochet.png");
   background-size: cover;
   color:rgba(255, 255, 255, .9);
   margin-bottom: 0px;
